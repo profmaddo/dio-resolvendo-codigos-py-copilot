@@ -1,7 +1,6 @@
 # vamos receber dois dados diferentes do usuário 
 # e contatena-los em uma única string
 
-
 # Solicita a entrada do primeiro dado
 primeiroDado = input("Digite o primeiro dado: ")
 
